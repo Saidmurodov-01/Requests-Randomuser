@@ -1,0 +1,12 @@
+{
+  "first_name": "Jonathan",
+  "last_name": "Hansen",
+  "gender": "male",
+  "email": "jonathan.hansen@example.com",
+  "phone": "72722654",
+  "address": {
+    "street": "Vesterbyvej",
+    "city": "S\u00f8rvad",
+    "country": "Denmark"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "full_name": "Nellie Patterson",
+    "email": "nellie.patterson@example.com",
+    "phone": "(551) 253-2453",
+    "country": "United States"
+  },
+  {
+    "full_name": "Poppy Williams",
+    "email": "poppy.williams@example.com",
+    "phone": "(093)-319-5908",
+    "country": "New Zealand"
+  },
+  {
+    "full_name": "Victoria C\u00f4t\u00e9",
+    "email": "victoria.cote@example.com",
+    "phone": "P43 Q10-0554",
+    "country": "Canada"
+  },
+  {
+    "full_name": "Kathrin Da Silva",
+    "email": "kathrin.dasilva@example.com",
+    "phone": "077 158 38 67",
+    "country": "Switzerland"
+  },
+  {
+    "full_name": "Concepci\u00f3n M\u00e9ndez",
+    "email": "concepcion.mendez@example.com",
+    "phone": "921-135-611",
+    "country": "Spain"
+  },
+  {
+    "full_name": "Manon Moreau",
+    "email": "manon.moreau@example.com",
+    "phone": "05-89-27-31-87",
+    "country": "France"
+  },
+  {
+    "full_name": "Hannah Gagnon",
+    "email": "hannah.gagnon@example.com",
+    "phone": "A95 H09-1454",
+    "country": "Canada"
+  },
+  {
+    "full_name": "Sabina Reinicke",
+    "email": "sabina.reinicke@example.com",
+    "phone": "0663-1274476",
+    "country": "Germany"
+  },
+  {
+    "full_name": "Sita Chatterjee",
+    "email": "sita.chatterjee@example.com",
+    "phone": "8913004405",
+    "country": "India"
+  },
+  {
+    "full_name": "Abigail Bell",
+    "email": "abigail.bell@example.com",
+    "phone": "0151 748 7967",
+    "country": "United Kingdom"
+  }
+]
